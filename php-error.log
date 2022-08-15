@@ -1,0 +1,2814 @@
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:09 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:09 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:09 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:09 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:10 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:10 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:10 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:10 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:10 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:10 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:10 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:10 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 107
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:10:10 UTC] PHP Warning:  Undefined array key 2 in /var/www/html/classes/sessioncontroller.php on line 108
+[15-Aug-2022 04:10:10 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/html/classes/sessioncontroller.php on line 93
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:10:10 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:10:10 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:10:10 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:08 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:11:08 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:08 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:12 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:12 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:12 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:12 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:14 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:11:14 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:14 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:14 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:22 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:11:22 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:22 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:24 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:24 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:24 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:24 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:24 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:11:24 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:11:24 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:24 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:25 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:25 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:27 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:28 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:28 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:29 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:30 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:30 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:30 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:30 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:30 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:30 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:30 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:11:30 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:11:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:31 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:31 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:31 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:31 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:32 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:32 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:32 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:32 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:32 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:32 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:32 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:32 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:32 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:11:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:37 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:11:37 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:38 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:38 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:38 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:38 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:45 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:45 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:45 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:45 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:45 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:11:45 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:11:45 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:45 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:45 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:45 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:49 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:49 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:11:49 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:49 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:49 UTC] CONTROLLER::redirect -> http://localhost:9090/user?success=2ee085ac8828407f4908e4d134195e5c
+[15-Aug-2022 04:11:49 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:49 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getCurrentPage -> user?success=2ee085ac8828407f4908e4d134195e5c
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getCurrentPage -> user?success=2ee085ac8828407f4908e4d134195e5c
+[15-Aug-2022 04:11:49 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:49 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:49 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:49 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:50 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:50 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:50 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:50 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:50 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:11:50 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:50 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:51 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:51 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:51 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:51 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:51 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:51 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:11:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:11:59 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:11:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:05 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:05 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:05 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:05 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:12:05 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:12:05 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:12:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:05 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:12:05 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:05 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:12:05 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:12:05 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:12:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:05 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:12:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:09 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:12:09 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:12:09 UTC] CONTROLLER::redirect -> http://localhost:9090/admin
+[15-Aug-2022 04:12:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:12:09 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:09 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:09 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:12:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:11 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:11 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:12:11 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:11 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:16 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:16 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:12:16 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:16 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] CONTROLLER::redirect -> http://localhost:9090/admin?success=f52228665c4f14c8695b194f670b0ef1
+[15-Aug-2022 04:12:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::getCurrentPage -> admin?success=f52228665c4f14c8695b194f670b0ef1
+[15-Aug-2022 04:12:22 UTC] SESSIONCONTROLLER::getCurrentPage -> admin?success=f52228665c4f14c8695b194f670b0ef1
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:22 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:12:25 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:25 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:25 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:25 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:12:25 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:12:25 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:12:25 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:12:25 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:25 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:12:25 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:25 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:12:25 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:12:25 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:12:25 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:25 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:12:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:12:28 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:12:28 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:12:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:28 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:12:28 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:28 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:31 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:12:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:31 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:31 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:12:31 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:12:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:31 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:12:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:12:45 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:12:45 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:08 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:13:08 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:13:08 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:13:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:08 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:13:08 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:08 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:09 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:09 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:09 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:13:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:18 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:13:18 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:18 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:27 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:27 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:27 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:38 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:38 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:38 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:13:38 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:13:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:38 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:39 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:39 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:40 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:42 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:42 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:42 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:42 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:44 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:44 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:47 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 04:13:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:47 UTC] CONTROLLER::redirect -> http://localhost:9090/user?error=53f3554f0533aa9f20fbf46bd5328430
+[15-Aug-2022 04:13:47 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getCurrentPage -> user?error=53f3554f0533aa9f20fbf46bd5328430
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getCurrentPage -> user?error=53f3554f0533aa9f20fbf46bd5328430
+[15-Aug-2022 04:13:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:47 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:48 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:48 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:58 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:58 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:58 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:58 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:58 UTC] SESSIONCONTROLLER::getCurrentPage -> user?error=53f3554f0533aa9f20fbf46bd5328430
+[15-Aug-2022 04:13:58 UTC] SESSIONCONTROLLER::getCurrentPage -> user?error=53f3554f0533aa9f20fbf46bd5328430
+[15-Aug-2022 04:13:58 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:58 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:58 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:58 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:59 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:13:59 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:13:59 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:13:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:00 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:00 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:00 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:14:00 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:00 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:00 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:14:00 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:00 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:00 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:00 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:14:00 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:00 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:00 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:00 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:01 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:02 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:02 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:14:02 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:02 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:02 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:02 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:08 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:14:08 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:14:08 UTC] CONTROLLER::redirect -> http://localhost:9090/admin
+[15-Aug-2022 04:14:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:08 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:14:08 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:14:08 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:08 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:08 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:09 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:09 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:14:09 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:14:09 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 04:14:15 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:15 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:15 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:15 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 04:14:15 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:15 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:15 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:14:15 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:15 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:15 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:15 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:14:15 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:15 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:15 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:15 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:26 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:27 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:27 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:27 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:14:27 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:27 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:27 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:29 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:29 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:14:29 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:29 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:14:29 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:14:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:14:30 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:14:30 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:30 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:14:30 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:30 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:32 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:32 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:32 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:32 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:14:32 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:32 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:32 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:14:32 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:32 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:32 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:32 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:14:32 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:32 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:32 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:32 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:33 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:33 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:33 UTC] SESSIONCONTROLLER::getCurrentPage -> signup
+[15-Aug-2022 04:14:34 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:34 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:36 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:36 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:36 UTC] SESSIONCONTROLLER::getCurrentPage -> signup
+[15-Aug-2022 04:14:36 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:36 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:36 UTC] CONTROLLER::redirect -> http://localhost:9090/?success=8281e04ed52ccfc13820d0f6acb0985a
+[15-Aug-2022 04:14:36 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:36 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:36 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:36 UTC] SESSIONCONTROLLER::getCurrentPage -> ?success=8281e04ed52ccfc13820d0f6acb0985a
+[15-Aug-2022 04:14:36 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:36 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:36 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:36 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:14:38 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:14:38 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:14:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getUserSessionData -> 1
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getUserSessionData -> 1
+[15-Aug-2022 04:14:38 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:14:38 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getUserSessionData -> 1
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] SESSIONCONTROLLER::getUserSessionData -> 1
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:38 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:14:38 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:40 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:14:40 UTC] SESSIONCONTROLLER::getUserSessionData -> 1
+[15-Aug-2022 04:14:40 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:40 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:14:40 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:14:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:40 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:14:40 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:14:40 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:14:40 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:14:40 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:14:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:14:40 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:15:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:09 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:15:09 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:09 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:15:09 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:15:09 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:15:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:09 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:15:12 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:15:12 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:15:12 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:15:12 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:12 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:15:12 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:13 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:13 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:15:13 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:13 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:13 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:13 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:17 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:17 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:17 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:17 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:15:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:27 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:15:27 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:27 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:27 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:29 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:29 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:15:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:31 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:15:31 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:15:31 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:15:31 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:15:31 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:15:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:31 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:15:31 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:15:31 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:15:31 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:15:31 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:15:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:15:31 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:18:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:27 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:18:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:29 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:18:32 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:32 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:18:32 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:18:32 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:18:32 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:18:32 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:18:32 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:32 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:18:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:18:35 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:18:35 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:18:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:18:35 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:18:35 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:18:51 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:18:51 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:19:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:01 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:19:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:01 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:19:15 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:15 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:19:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:28 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:19:28 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:19:28 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:19:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:19:28 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:19:28 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:28 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:19:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:59 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:19:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:19:59 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:20:03 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:20:03 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:20:03 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:20:03 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:20:07 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:20:07 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:20:20 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:20:20 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:20:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:20:53 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:20:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:00 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:02 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:02 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:22 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:28 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:28 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:49 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:49 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:50 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:50 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:53 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:21:55 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:21:55 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:22:25 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:22:25 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:22:27 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:22:27 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:23:09 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:09 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:23:13 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:13 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:23:17 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:17 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:23:17 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:23:17 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:23:17 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:17 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:23:17 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:17 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:17 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:17 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:19 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:19 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:19 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:19 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:19 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:23:19 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:23:19 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:23:19 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:19 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:23:19 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:19 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:23:19 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:23:19 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:23:19 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:19 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:23:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:23:22 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:23:22 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:23:22 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:22 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:23:22 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:22 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:23 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:23 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:23 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:23:23 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:23 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:25 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:23:25 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:23:25 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:25 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:25 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:23:25 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:23:25 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:23:25 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:23:25 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:34 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:26:34 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:34 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:34 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:34 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:26:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:35 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:26:35 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:26:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:36 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:36 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:26:36 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:26:36 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:26:36 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:26:36 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 04:26:36 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 04:26:36 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:36 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:26:36 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:26:36 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:26:36 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:26:36 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:26:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:37 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:26:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:38 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:26:38 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:26:38 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:26:38 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:26:38 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:26:38 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:26:38 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:37:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:16 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:37:29 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:29 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:37:34 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:34 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 04:37:34 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:37:34 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 04:37:34 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:37:34 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 04:37:34 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:34 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:37:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 04:37:37 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] LoginModel::login -> success 
+[15-Aug-2022 04:37:37 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 04:37:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:37:37 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 04:37:37 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:37 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:37 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 04:37:40 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 04:37:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:37:40 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:37:40 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 04:37:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 04:37:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 04:37:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:31 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:31 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:31 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:31 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:21:31 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:21:31 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 05:21:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:31 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 05:21:31 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:31 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 05:21:31 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:21:31 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 05:21:31 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:31 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:21:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 05:21:35 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] LoginModel::login -> success 
+[15-Aug-2022 05:21:35 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 05:21:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:35 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 05:21:35 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:35 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:35 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:35 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:41 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:41 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:41 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:41 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:21:41 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:21:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:41 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:41 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:41 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:21:48 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:48 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:21:48 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:48 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:48 UTC] CONTROLLER::redirect -> http://localhost:9090/user?success=edabc9e4581fee3f0056fff4685ee9a8
+[15-Aug-2022 05:21:48 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:48 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getCurrentPage -> user?success=edabc9e4581fee3f0056fff4685ee9a8
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getCurrentPage -> user?success=edabc9e4581fee3f0056fff4685ee9a8
+[15-Aug-2022 05:21:48 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:48 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:49 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:49 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:21:52 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:52 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 05:21:52 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:52 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:21:52 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:01 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:01 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:01 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:01 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:01 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:04 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:04 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:04 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:04 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:04 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:24:04 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:24:04 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:04 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:04 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:04 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:06 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:06 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:07 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:07 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:11 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 05:24:11 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:12 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:12 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:12 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:12 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:43 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:43 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:43 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:43 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:24:43 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:24:43 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:24:43 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 05:24:43 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:43 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 05:24:43 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:43 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 05:24:43 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:24:43 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 05:24:43 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:43 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:47 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:47 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:47 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 05:24:47 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] LoginModel::login -> success 
+[15-Aug-2022 05:24:47 UTC] CONTROLLER::redirect -> http://localhost:9090/admin
+[15-Aug-2022 05:24:47 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:47 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:24:47 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:24:47 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:47 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:47 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:24:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:53 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:53 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:24:53 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:24:53 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:24:59 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:24:59 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:24:59 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:24:59 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:24:59 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 05:24:59 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:24:59 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:00 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:25:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:25:00 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:25:00 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:25:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:00 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:00 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:25:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:05 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:25:05 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:05 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:25:05 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:25:05 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:25:05 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 05:25:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:05 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 05:25:05 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:25:05 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 05:25:05 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:25:05 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 05:25:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:05 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:25:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 05:25:11 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] LoginModel::login -> success 
+[15-Aug-2022 05:25:11 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 05:25:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:25:11 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 05:25:11 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:11 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:25:11 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:25:11 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:46 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:26:46 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:26:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:46 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:46 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:26:46 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:26:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:46 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 05:26:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:53 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 05:26:53 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:26:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:26:53 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:26:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:33:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:33:40 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:33:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:33:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:33:40 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:33:40 UTC] SESSIONCONTROLLER::getCurrentPage -> user
+[15-Aug-2022 05:33:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:33:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:33:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:33:40 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:33:43 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:33:43 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:38:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:53 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:38:53 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:53 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 05:38:53 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:38:53 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:38:53 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 05:38:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:53 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 05:38:53 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:38:53 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 05:38:53 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:38:53 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 05:38:53 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:53 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:38:57 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:57 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:38:57 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 05:38:57 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] LoginModel::login -> success 
+[15-Aug-2022 05:38:57 UTC] CONTROLLER::redirect -> http://localhost:9090/admin
+[15-Aug-2022 05:38:57 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:57 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:38:57 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:38:57 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:57 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:57 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:38:58 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:38:58 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:38:58 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:38:58 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:38:58 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:38:58 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:39:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:39:16 UTC] CONTROLLER::redirect -> http://localhost:9090/admin?error=2d6788f2408c6d81f8ae731841cba7bb
+[15-Aug-2022 05:39:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::getCurrentPage -> admin?error=2d6788f2408c6d81f8ae731841cba7bb
+[15-Aug-2022 05:39:16 UTC] SESSIONCONTROLLER::getCurrentPage -> admin?error=2d6788f2408c6d81f8ae731841cba7bb
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:39:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:39:16 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:43:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:43:18 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 05:43:18 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:43:18 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 05:43:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:43:18 UTC] SESSIONCONTROLLER::getCurrentPage -> admin
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:18 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:43:18 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 05:43:20 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:43:20 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:43:20 UTC] Conexión a BD exitosa
+[15-Aug-2022 05:43:20 UTC] SESSIONCONTROLLER::getUserSessionData -> 123
+[15-Aug-2022 05:43:20 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:43:20 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 05:43:20 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 05:43:20 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:43:20 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 05:43:20 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 05:43:20 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 05:43:20 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 05:43:20 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 05:43:20 UTC] Inicio de aplicacion web
+[15-Aug-2022 05:43:20 UTC] Errores::construct -> Inicio de Errores
+[15-Aug-2022 06:51:04 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:51:04 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 06:51:04 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:51:04 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 06:51:04 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 06:51:04 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 06:58:57 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:58:57 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 06:58:57 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:58:57 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 06:58:57 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 06:58:57 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 06:59:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 06:59:01 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] LoginModel::login -> success 
+[15-Aug-2022 06:59:01 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 06:59:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 06:59:01 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 06:59:01 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:01 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:59:05 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:59:05 UTC] Conexión a BD exitosa
+[15-Aug-2022 06:59:05 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 06:59:05 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 06:59:05 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 06:59:05 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 06:59:05 UTC] Inicio de aplicacion web
+[15-Aug-2022 06:59:05 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 06:59:05 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 06:59:05 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 06:59:05 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 06:59:05 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 07:00:42 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:00:42 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 07:00:42 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:00:42 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 07:00:42 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:00:42 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 07:00:45 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:00:45 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:00:45 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 07:00:45 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:00:45 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:45 UTC] LoginModel::login -> success 
+[15-Aug-2022 07:00:45 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 07:00:45 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:00:46 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 07:00:46 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:00:46 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:09:40 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 07:09:40 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:09:40 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 07:09:40 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:09:40 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 07:09:40 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:40 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:09:41 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:09:41 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 07:09:41 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:41 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:42 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:09:42 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:09:42 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:09:42 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:09:42 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 07:09:42 UTC] SESSIONCONTROLLER::getCurrentPage -> logout
+[15-Aug-2022 07:09:42 UTC] CONTROLLER::redirect -> http://localhost:9090/
+[15-Aug-2022 07:09:42 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:09:43 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 07:09:43 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:09:43 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 07:09:43 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:09:43 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 07:29:42 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:29:42 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 07:29:42 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:29:42 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 07:29:42 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:29:42 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 07:58:13 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:58:13 UTC] APP::CONSTRUCT-> no hay controlador especificado
+[15-Aug-2022 07:58:13 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:58:13 UTC] SESSIONCONTROLLER::getCurrentPage -> 
+[15-Aug-2022 07:58:13 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:58:13 UTC] Login::render -> Carga el index de login
+[15-Aug-2022 07:58:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getCurrentPage -> login
+[15-Aug-2022 07:58:16 UTC] Login::construct -> Inicio de login
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] LoginModel::login -> success 
+[15-Aug-2022 07:58:16 UTC] CONTROLLER::redirect -> http://localhost:9090/dashboard
+[15-Aug-2022 07:58:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:58:16 UTC] Dashboard::construct -> Inicio de Dashboard
+[15-Aug-2022 07:58:16 UTC] Dashboard::render -> Carga el index de Dashboard
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Inicio de aplicacion web
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::validateSession
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getCurrentPage -> expenses
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] SESSIONCONTROLLER::getUserSessionData -> allen
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
+[15-Aug-2022 07:58:16 UTC] Conexión a BD exitosa
